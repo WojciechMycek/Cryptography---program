@@ -7,3 +7,5 @@ class CSVFileHandler -> is using fuctionality of mentioned library to encrypt an
 class MultiFernetHandler
                             -> implemented functionality to use multiptlies keys to encode csv file. 
 class CSVFileHandlerMulti
+
+class VigenereCipher -> handling with Viegener Cipher and csv files
